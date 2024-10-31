@@ -43,7 +43,3 @@ Bem-vindo(a) a disciplina de Algoritmos e Logica de Programacao II, Caio
 ## Autor
 
 Caio Frederico, como parte da disciplina de Linguagem e Técnicas de Programação da Faculdade UNICESUMAR.
-
----
-
-Se precisar de mais alguma coisa ou ajustes, é só avisar!
